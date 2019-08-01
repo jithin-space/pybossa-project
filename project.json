@@ -1,6 +1,6 @@
 {
-    "name": "Standout Document Processor",
-    "short_name": "doc_processor",
+    "name": "Standout Document Processor - Demo 1",
+    "short_name": "doc_processor_demo1",
     "description": "short description goes here",
     "question": "Observe the pdf & fill the form carefully"
 }
